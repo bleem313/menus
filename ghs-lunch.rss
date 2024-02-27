@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GHS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandHighSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 26 Feb 2024 12:08:05 +0000</lastBuildDate><item><title>Entrée - Choose 1</title><description>Pizza
-Chicken Wrap</description></item><item><title>Choice of 2 Vegetables</title><description>Straight Cut Fries
-Tomato &amp; Carrot W/Lf Dip</description></item><item><title>Choice of 2 Fruits</title><description>Peaches
-Assorted Fruit Juice</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GHS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandHighSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 27 Feb 2024 12:19:20 +0000</lastBuildDate><item><title>Entrée - Choose 1</title><description>Pizza Crunchers
+Cheeseburger</description></item><item><title>Choice of 2 Vegetables</title><description>Sweet Potato Fries
+Baked Beans
+Salad W/Tomato &amp; Cucumber</description></item><item><title>Choice of 2 Fruits</title><description>Pineapple Chunks
+Can &amp; Fresh Fruit</description></item></channel></rss>
