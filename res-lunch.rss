@@ -1,6 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RES Lunch Menu</title><link>https://schools.mealviewer.com/school/RandolphElem</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 21 Mar 2024 14:57:15 +0000</lastBuildDate><item><title>Entrée - Choose 1</title><description>Nachos
-Corn Dog Nuggets
-... With Fresh Baked Roll</description></item><item><title>Choice of 2 Vegetables</title><description>Steamed Broccoli
-Cucumber W/Lf Dip</description></item><item><title>Choice of 2 Fruits</title><description>Canned Pears
-Pineapple Chunks</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RES Lunch Menu</title><link>https://schools.mealviewer.com/school/RandolphElem</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 22 Mar 2024 13:29:20 +0000</lastBuildDate><item><title>Entrée - Choose 1</title><description>Hot Dog
+Cheeseburger</description></item><item><title>Choice of 2 Vegetables</title><description>Baked Beans
+Steamed Carrots</description></item><item><title>Choice of 2 Fruits</title><description>Can &amp; Fresh Fruit</description></item></channel></rss>
