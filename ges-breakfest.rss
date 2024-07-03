@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GES Breakfast Menu</title><link>https://schools.mealviewer.com/school/GoochlandElementarySchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 26 Apr 2024 13:43:49 +0000</lastBuildDate><item><title>Entrée - Choose 1</title><description>Egg, Bacon &amp; Ch Biscuit
-Honey Bun
-Cereal &amp; Toast
-Smoothie W/Graham Snack</description></item><item><title>Choice of 2 Fruits</title><description>Can, Fresh Fruit &amp; Juice</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GES Breakfast Menu</title><link>https://schools.mealviewer.com/school/GoochlandElementarySchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 03 Jul 2024 13:02:04 +0000</lastBuildDate><item><title>Announcements</title><description>Summer School Menu Available in Your School Office
+Sunshine Bus Menu Available in Your School Office
+(Starts June 10th - July 18th)</description></item></channel></rss>
