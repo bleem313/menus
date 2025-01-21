@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GHS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandHighSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 17 Jan 2025 16:00:35 +0000</lastBuildDate><item><title>Entrée - Choose 1</title><description>Pizza
-Chicken Nuggets
-... With Fresh Baked Roll</description></item><item><title>Choice of 2 Vegetables</title><description>Oven Baked Wedge Fries
-Stewed Tomatoes
-Celery Sticks W/Ranch</description></item><item><title>Choice of 2 Fruits</title><description>Applesauce
-Assorted Fruit Juice</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GHS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandHighSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 21 Jan 2025 13:59:34 +0000</lastBuildDate><pubDate>Tue, 21 Jan 2025 00:00:00 -0500</pubDate><item><title>Entrée - Choose 1</title><description>Cheesy Mac Bites
+Cheeseburger</description></item><item><title>Choice of 2 Vegetables</title><description>Sweet Potato Fries
+Baked Beans
+Salad W/Tomato &amp; Cucumber</description></item><item><title>Choice of 2 Fruits</title><description>Pineapple Cup
+Assorted Fresh Fruit</description></item></channel></rss>
