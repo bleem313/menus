@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RES Lunch Menu</title><link>https://schools.mealviewer.com/school/RandolphElem</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 06 Mar 2025 06:00:00 -0500</lastBuildDate><item><title>Entrée - Choose 1</title><description>Tangerine Chicken W/Rice
-Corn Dog</description></item><item><title>Choice of 2 Vegetables</title><description>Steamed Broccoli
-Cucumber W/Ranch Dressing</description></item><item><title>Choice of 2 Fruits</title><description>Pears
-Applesauce</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RES Lunch Menu</title><link>https://schools.mealviewer.com/school/RandolphElem</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 07 Mar 2025 06:00:00 -0500</lastBuildDate><item><title>Entrée - Choose 1</title><description>HOT DOG on a BUN
+Cheeseburger</description></item><item><title>Choice of 2 Vegetables</title><description>Baked Beans
+Steamed Carrots</description></item><item><title>Choice of 2 Fruits</title><description>Assorted Fresh Fruit</description></item></channel></rss>
