@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RES Lunch Menu</title><link>https://schools.mealviewer.com/school/RandolphElem</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 15 May 2025 06:00:00 -0400</lastBuildDate><item><title>Entrée - Choose 1</title><description>Corn Dog Nuggets
-... With Fresh Baked Roll
-Turkey, Ham &amp; Cheese Sub</description></item><item><title>Choice of 2 Vegetables</title><description>Steamed Broccoli
-Steamed Corn</description></item><item><title>Choice of 2 Fruits</title><description>Assorted Fresh Fruit</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RES Lunch Menu</title><link>https://schools.mealviewer.com/school/RandolphElem</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 16 May 2025 06:00:00 -0400</lastBuildDate><item><title>Entrée - Choose 1</title><description>Nachos
+Popcorn Chicken
+... With Fresh Baked Roll</description></item><item><title>Choice of 2 Vegetables</title><description>Sweet Potato Fries
+Black Bean Salad</description></item><item><title>Choice of 2 Fruits</title><description>Pears
+Assorted Fruit Juice</description></item></channel></rss>
