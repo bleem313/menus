@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GMS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandMiddleSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 24 Sep 2025 06:00:00 -0400</lastBuildDate><item><title>Entree - Choose 1</title><description>Cheeseburger
-Chicken Nuggets
-W/ FRESH BAKED ROLL
-Anytimers Pepperoni Pizza</description></item><item><title>Vegetables</title><description>Lettuce &amp; Tomato
-Baked Fries
-Baby Carrots W/Ranch</description></item><item><title>Fruit</title><description>Assorted Fruit</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GMS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandMiddleSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Thu, 25 Sep 2025 06:00:00 -0400</lastBuildDate><item><title>Entree - Choose 1</title><description>Rotini W/Meatsauce
+Bread Stick
+Rib Sandwich
+Anytimers Pepperoni Pizza</description></item><item><title>Vegetables</title><description>Sweet Potato Fries
+Lettuce &amp; Tomato
+Steamed Broccoli</description></item><item><title>Fruit</title><description>Assorted Fruit</description></item></channel></rss>
