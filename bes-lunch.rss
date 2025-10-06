@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>BES Lunch Menu</title><link>https://schools.mealviewer.com/school/ByrdElementarySchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 03 Oct 2025 06:00:00 -0400</lastBuildDate><item><title>Entree - Choose 1</title><description>Pizza Crunchers
-Popcorn Chicken
-W/ FRESH BAKED ROLL</description></item><item><title>Vegetables</title><description>Black Bean Salad
-Sweet Potato Fries</description></item><item><title>Fruit</title><description>Applesauce
-Peaches</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>BES Lunch Menu</title><link>https://schools.mealviewer.com/school/ByrdElementarySchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 06 Oct 2025 06:00:00 -0400</lastBuildDate><item><title>Entree - Choose 1</title><description>Cheeseburger W/Bacon
+Bosco Sticks</description></item><item><title>Vegetables</title><description>Va. Grown Squash
+Baked Fries
+California Blend Veggies</description></item><item><title>Fruit</title><description>Mandarin Oranges
+Fresh Apple</description></item></channel></rss>
