@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GHS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandHighSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 15 Dec 2025 06:00:00 -0500</lastBuildDate><item><title>Entree - Choose 1</title><description>Smart Mouth Pizza
-BBQ on a Bun
-Chicken Wrap</description></item><item><title>Vegetables</title><description>Baked Fries
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>GHS Lunch Menu</title><link>https://schools.mealviewer.com/school/GoochlandHighSchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 16 Dec 2025 06:00:00 -0500</lastBuildDate><item><title>Entree - Choose 1</title><description>Chicken Sandwich
+Ham &amp; Cheese Wrap
+Anytimers Pepperoni Pizza</description></item><item><title>Vegetables</title><description>Steamed Green Beans
 Lettuce &amp; Tomato
-Black Bean Salad</description></item><item><title>Fruit</title><description>Assorted Fruit</description></item></channel></rss>
+Fresh Cucumbers/Ranch</description></item><item><title>Fruit</title><description>Assorted Fruit</description></item></channel></rss>
