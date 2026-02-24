@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>BES Lunch Menu</title><link>https://schools.mealviewer.com/school/ByrdElementarySchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Mon, 23 Feb 2026 06:00:00 -0500</lastBuildDate><item><title>Entree - Choose 1</title><description>Cheeseburger
-Wild Mikes Cheese Bites</description></item><item><title>Vegetables</title><description>Baked Fries
-California Blend Veggies</description></item><item><title>Fruit</title><description>Mandarin Oranges
-Fresh Apple</description></item><item><title>Milk</title><description>Ff Chocolate Milk
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>BES Lunch Menu</title><link>https://schools.mealviewer.com/school/ByrdElementarySchool</link><description>What's on the Menu!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Tue, 24 Feb 2026 06:00:00 -0500</lastBuildDate><item><title>Entree - Choose 1</title><description>Mini Pizza Triangles
+Ham &amp; Cheese Wrap</description></item><item><title>Vegetables</title><description>Steamed Green Beans
+Tomato &amp; Cucumber Salad</description></item><item><title>Fruit</title><description>Fresh Fruit Variety</description></item><item><title>Milk</title><description>Ff Chocolate Milk
 Lowfat 1% Milk</description></item></channel></rss>
